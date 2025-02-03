@@ -19,3 +19,12 @@ def increment_by_three(var_to_increment):
     :return: incremented variable
     """
     return var_to_increment + 3
+
+
+def increment_by_four(var_to_increment):
+    """
+    This function increments input by three
+    :param var_to_increment: param to increment
+    :return: incremented variable
+    """
+    return var_to_increment + 4
